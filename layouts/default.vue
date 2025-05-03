@@ -1,9 +1,9 @@
 <template>
   <div class="layout flex flex-col">
-    <AppHeader />
+    <!-- <AppHeader /> -->
 
     <div class="content flex flex-1">
-      <AppNavigation />
+      <!-- <AppNavigation /> -->
 
       <div class="py-[12px] px-[24px] flex-1">
         <slot></slot>
