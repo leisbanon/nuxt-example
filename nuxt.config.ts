@@ -25,4 +25,5 @@ export default defineNuxtConfig({
       // mode: 'default',
     },
   },
+  // ssr: false,
 });
