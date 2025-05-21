@@ -13,9 +13,16 @@ a {
   text-decoration: underline;
 }
 
-ul li {
+main ul li {
   list-style: auto;
   margin-left: 1em;
+  margin-bottom: 12px;
+}
+
+main ol li {
+  list-style: initial;
+  margin-left: 1em;
+  margin-bottom: 12px;
 }
 
 h1 {
@@ -28,4 +35,8 @@ h1 {
 
 h2 {
   font-weight: bold;
+}
+
+hr {
+  margin: 12px 0;
 }

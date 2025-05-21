@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li>
-      <strong></strong>
+      <strong>3</strong>
     </li>
   </ul>
 </template>

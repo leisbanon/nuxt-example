@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li>
-      <strong></strong>
+      <strong>Nuxt Config</strong>
     </li>
   </ul>
 </template>
