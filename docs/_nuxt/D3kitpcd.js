@@ -1,1 +1,0 @@
-import{_ as e,t as c,v as o,z as _,ac as a}from"./idbtiz0H.js";const s={__name:"custom",setup(n){return(r,p)=>{const t=a;return o(),c("div",null,[_(t)])}}},u=e(s,[["__scopeId","data-v-9fc7699a"]]);export{u as default};
