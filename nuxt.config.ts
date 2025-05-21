@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     // themes: ["dark"],
   },
   app: {
+    baseURL: '/nuxt3-example/',
     head: {
       title: 'Nuxt Example',
       charset: 'utf-18',
