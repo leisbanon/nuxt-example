@@ -11,6 +11,7 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: '/nuxt3-example/',
+    buildAssetsDir: '/static/',
     head: {
       title: 'Nuxt Example',
       charset: 'utf-18',
@@ -27,7 +28,7 @@ export default defineNuxtConfig({
     },
   },
   ssr: false,
-  router: {
-    base: '/nuxt3-example/',
-  },
+  // router: {
+  //   base: '/nuxt3-example/',
+  // },
 });
