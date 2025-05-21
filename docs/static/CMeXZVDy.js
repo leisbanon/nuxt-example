@@ -1,0 +1,1 @@
+import{_ as e,t as o,v as _,z as c,ab as a}from"./CNtEq8J6.js";const s={__name:"custom",setup(n){return(r,p)=>{const t=a;return _(),o("div",null,[c(t)])}}},u=e(s,[["__scopeId","data-v-9fc7699a"]]);export{u as default};

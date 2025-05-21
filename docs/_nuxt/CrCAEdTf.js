@@ -1,1 +1,0 @@
-import{_ as n,t as r,x as t,v as o}from"./LfkmQAmM.js";const s={};function l(a,e){return o(),r("ul",null,e[0]||(e[0]=[t("li",null,[t("strong")],-1)]))}const _=n(s,[["render",l]]);export{_ as default};

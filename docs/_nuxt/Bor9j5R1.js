@@ -1,1 +1,0 @@
-import{_ as t,t as o,x as e,v as r}from"./LfkmQAmM.js";const l={};function s(a,n){return r(),o("ul",null,n[0]||(n[0]=[e("li",null,[e("strong",null,"Nuxt Config")],-1)]))}const u=t(l,[["render",s]]);export{u as default};
