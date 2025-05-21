@@ -8,13 +8,13 @@
               <span>{{ title[key] }}</span>
             </template>
             <el-menu-item-group v-for="(item, index2) of routeMap[key]" :key="`i2_${index2}`">
-              <el-menu-item :index="`${index}-${index2}`" @click="navigateTo(item.path, { external: true })">
+              <el-menu-item :index="`${index}-${index2}`" @click="navigateTo(`${item.path}`, { external: false })">
                 {{ item.name }}
               </el-menu-item>
             </el-menu-item-group>
           </el-sub-menu>
 
-          <el-menu-item index="10" @click="navigateTo('/nuxtConfig', { external: true })">
+          <el-menu-item index="10" @click="navigateTo('/nuxtConfig', { external: false })">
             <span>Nuxt 配置</span>
           </el-menu-item>
         </el-menu>

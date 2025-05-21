@@ -1,0 +1,1 @@
+import{_ as t,t as r,x as n,v as _}from"./-izJgR3p.js";const l={};function o(s,e){return _(),r("ul",null,e[0]||(e[0]=[n("li",null,[n("strong",null,"2")],-1)]))}const c=t(l,[["render",o]]);export{c as default};

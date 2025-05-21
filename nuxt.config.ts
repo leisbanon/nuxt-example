@@ -28,7 +28,4 @@ export default defineNuxtConfig({
     },
   },
   ssr: false,
-  router: {
-    base: '/nuxt3-example/',
-  },
 });
